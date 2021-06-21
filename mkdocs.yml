@@ -1,0 +1,16 @@
+site_name: Material Docs Sample
+site_url: https://example.com/
+theme:
+  name: material
+  custom_dir: overrides
+  # locale: de
+  palette:
+    primary: red
+    scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+    scheme: slate
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
